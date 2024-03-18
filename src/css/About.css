@@ -1,0 +1,201 @@
+.link-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+  padding-top: 2rem;
+  margin-top: 50px;
+}
+
+.team-image {
+  position: relative;
+  text-align: center;
+  width: 100%;
+
+}
+
+.overlay {
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  color: whitesmoke;
+  transform: translate(-50%, -50%);
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.about {
+  color: whitesmoke;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+
+}
+
+
+.about1 {
+  background-color: rgb(149, 242, 249);
+}
+
+
+.focus h2 {
+  margin-top: 30px;
+  text-align: center;
+  color: rgb(10, 109, 238);
+}
+
+.focus p {
+  text-align: center;
+  color: black;
+  font-size: 17px;
+  margin-top: 20px;
+}
+
+.head-ing {
+  display: flex;
+  align-items: center;
+}
+
+.img-4 {
+  flex: 1;
+  margin-left: 20px;
+}
+
+.text-4 {
+  flex: 1;
+
+}
+
+.text-4 li {
+  margin-top: 20px;
+}
+
+.h3 {
+  text-align: center;
+  color: rgb(4, 59, 238);
+}
+
+
+.flipcard-container {
+  display: flex;
+  margin-right: 10px;
+}
+
+.flip-card {
+  width: 200px;
+  height: 300px;
+  margin-right: 30px;
+  margin-left: 50px;
+  align-items: center;
+}
+
+.flip-card-inner {
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transition: transform 0.5s;
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front,
+.flip-card-back {
+  width: 120%;
+  height: 100%;
+  position: absolute;
+  backface-visibility: hidden;
+}
+
+.flip-card-front {
+  background-color: rgb(89, 172, 245);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.names {
+  text-align: center;
+}
+
+.names p {
+  font-size: 20px;
+}
+
+.card-image {
+  margin-left: 3px;
+  width: 200px;
+  height: 100px;
+}
+
+.flip-card-back {
+  background-color: #ddd;
+  transform: rotateY(180deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flip-card img {
+  width: 100%;
+  height: 100%;
+}
+
+
+.com-names {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.circles {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.circle-with-text {
+  background: linear-gradient(orange, red);
+  justify-content: center;
+  align-items: center;
+  border-radius: 100%;
+  text-align: center;
+  margin: 5px 20px;
+  font-size: 15px;
+  padding: 15px;
+  display: flex;
+  height: 180px;
+  width: 180px;
+  color: whitesmoke;
+  font-size: 20px;
+  margin-top: 15px;
+  margin-right: 50px;
+}
+
+
+.box-0 {
+  border: 2px solid black;
+  width: 250px;
+  height: 50px;
+  margin-bottom: 100px;
+  margin-right: 10px;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 19px;
+  cursor: pointer;
+  transition: background-color .2s ease;
+
+}
+
+.box-0:hover {
+  background-color: #e74c3c;
+}
+
+
+/*  */
+
+
+
+

@@ -1,0 +1,156 @@
+.fullstack {
+    margin-left: 200px;
+    margin-top: 50px;
+    color: rgb(13, 141, 210);
+}
+
+.fullstack p {
+    margin-top: 40px;
+    color: black;
+    font-size: 18px;
+
+}
+
+/*  */
+
+.react {
+    text-align: center;
+    color: orange;
+    font-weight: bold;
+}
+
+/*  */
+
+.react-js {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.txt-react {
+    margin-right: 200px;
+    margin-left: 60px;
+    font-size: 17px;
+    color: black;
+}
+
+.imgx {
+    margin-right: 100px;
+    height: 270px;
+    width: 430px;
+
+}
+
+/*  */
+
+.train-project h2 {
+    text-align: center;
+    color: orange;
+    font-weight: bold;
+}
+
+.train-project h4 {
+    text-align: center;
+}
+
+.train-project p {
+    margin-left: 140px;
+    font-size: 20px;
+}
+
+/*  */
+.react-cards {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.react-roles {
+    align-items: center;
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.angular {
+    font-size: 18px;
+    margin-left: 140px;
+}
+
+/*  */
+.main-box {
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(19, 112, 234);
+}
+
+.box-main-1 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    overflow: hidden;
+    width: 1200px;
+    height: 200px;
+    margin-top: 50px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.web-icon img {
+    margin-right: 20px;
+    height: 100px;
+    width: 170px;
+    animation: moveIcons 10s linear infinite;
+
+}
+
+@keyframes moveIcons {
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(-100%);
+    }
+}
+
+/*  */
+
+.traing-certi {
+    border: 1px solid grey;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: rgb(3, 28, 61);
+    width: 1300px;
+    height: 450px;
+    margin-left: '20px';
+
+}
+
+.cer-trg {
+    display: flex;
+    align-items: center;
+}
+
+.cer-trg img {
+    height: 400px;
+    width: 340px;
+    margin-top: 30px;
+    margin-right: 130px;
+}
+
+.trai-text {
+    margin-right: 10px;
+    margin-left: 120px;
+    color: whitesmoke;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+
+}

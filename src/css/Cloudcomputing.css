@@ -1,0 +1,30 @@
+.fullstack {
+    margin-left: 200px;
+    margin-top: 50px;
+    color: rgb(13, 141, 210);
+}
+
+.fullstack p {
+    margin-top: 40px;
+    color: black;
+    font-size: 18px;
+
+}
+
+/*  */
+.cld h2 {
+    text-align: center;
+}
+
+/*  */
+
+.react {
+    text-align: center;
+    color: orange;
+    font-weight: bold;
+}
+
+/*  */
+.cloud-opp h3 {
+    text-align: center;
+}

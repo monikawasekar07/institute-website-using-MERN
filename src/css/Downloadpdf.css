@@ -1,0 +1,40 @@
+.outer-card {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+.inner-card {
+    background-color: rgb(11, 127, 242);
+    height: 500px;
+    color: white;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+
+.inner-card h1,
+.inner-card h3,
+.inner-card h3 {
+
+    margin-top: 90px;
+    margin-bottom: 10px;
+}
+
+.inner-card h1 {
+    font-size: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.inner-card button {
+    background-color: white;
+    color: rgb(22, 135, 227);
+    padding: 8px 16px;
+    border: 2px solid rgb(2, 18, 34);
+    border-radius: 5px;
+    cursor: pointer;
+}

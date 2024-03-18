@@ -1,0 +1,75 @@
+.fullstack {
+    margin-left: 200px;
+    margin-top: 50px;
+    color: rgb(13, 141, 210);
+}
+
+.fullstack p {
+    margin-top: 40px;
+    color: black;
+    font-size: 18px;
+
+}
+
+/*  */
+.cld h2 {
+    text-align: center;
+}
+
+/*  */
+
+.react {
+    text-align: center;
+    color: orange;
+    font-weight: bold;
+}
+
+/*  */
+
+.highlights h3 {
+    text-align: center;
+}
+
+.highlights p {
+    margin-left: 200px;
+    font-size: 17px;
+}
+
+.skills-ds {
+    margin-left: 200px;
+}
+
+/*  */
+.ds-project {
+    margin-left: 200px;
+}
+
+/*  */
+/*  */
+.ds-tools h4 {
+    text-align: center;
+}
+
+.outer-box {
+    margin-left: 300px;
+    margin-top: 40px;
+    width: 800px;
+    height: 200px;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.inner-box {
+    width: 80%;
+    height: 90%;
+    border: 1px solid black;
+    margin: 10px auto;
+}
+
+.inner-box img {
+
+    width: 15%;
+    height: auto;
+    display: inline-block;
+    margin: 0 5px;
+}

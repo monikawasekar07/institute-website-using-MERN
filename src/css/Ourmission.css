@@ -1,0 +1,173 @@
+.ourmission {
+    background-color: rgb(149, 242, 249);
+}
+
+
+.vis-mis {
+    text-align: center;
+    margin-top: 30px;
+    color: rgb(10, 94, 220);
+}
+
+.boz1 {
+    border: 1px solid grey;
+    height: 500px;
+    margin-top: 35px;
+    background-color: rgb(7, 102, 179);
+    color: whitesmoke;
+    text-align: left;
+    font-size: 17px;
+
+
+}
+
+
+.bozxx {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin-top: 30px;
+
+}
+
+.left-side {
+    flex: 1;
+    padding: 20px;
+    margin-left: 10px;
+}
+
+.circle-arrow {
+    color: black;
+    font-size: 25px;
+}
+
+.right-side {
+    flex: 1;
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+.box3 {
+    width: 300px;
+    height: 200px;
+    border: 1px solid rgb(17, 16, 16);
+    margin-right: 10px;
+}
+
+.box3 h1 {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 60px;
+}
+
+
+
+.box3 h4 {
+    color: black;
+    text-align: center;
+
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+
+.lines {
+    margin-top: 30px;
+}
+
+img {
+    width: 80%;
+    height: 400px;
+
+}
+
+.text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 67%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: whitesmoke;
+    padding: 10px;
+}
+
+.about- {
+    text-align: center;
+    margin-top: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.about- h4 {
+    color: rgb(12, 66, 133);
+}
+
+.container-A {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.box1 {
+    flex: 1;
+    max-width: calc(100% / 6);
+    position: relative;
+    color: black;
+    border: 1px solid rgb(16, 16, 16);
+    background-color: white;
+    margin-right: 10px;
+    height: 320px;
+    transition: background-color 0.3s ease;
+
+}
+
+.box1:hover {
+    background-color: rgb(122, 200, 243);
+
+}
+
+.box1 img {
+    height: 150px;
+    width: 170px;
+
+}
+
+
+.cer-icon {
+    color: black;
+    margin-top: 30px;
+    height: 75px;
+    width: 90px;
+    align-items: center;
+    justify-content: center;
+}
+
+.certificate-3 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+    background-color: rgb(12, 87, 152);
+    height: 200px;
+}
+
+.certificate-3 p {
+    color: black;
+    font-size: 19px;
+    margin-right: 20px;
+}
+
+.sub-hea {
+    text-align: center;
+    margin-top: 30px;
+}

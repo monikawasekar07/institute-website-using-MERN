@@ -1,0 +1,50 @@
+.rejs {
+    background-image: url(../Assets/college\ students\ img.webp);
+    background-size: cover;
+    height: 740px
+}
+
+.form-reg-1 {
+    padding: 2rem;
+    width: 550px;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 4rem;
+}
+
+form label {
+    width: 150px;
+}
+
+.elementContainer {
+    margin-bottom: 0.75rem;
+    align-items: center;
+
+}
+
+.elementContainer label {
+    color: black;
+    font-size: 20px;
+}
+
+.elementContainer input {
+    color: black;
+    width: 450px;
+}
+
+.reg-container {
+    text-align: center;
+    padding-bottom: 1rem;
+    color: rgb(16, 15, 14);
+}
+
+
+
+.down-carr h2 {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
